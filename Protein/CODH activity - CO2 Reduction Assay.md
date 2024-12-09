@@ -40,7 +40,7 @@ Work in triplicates. One result is no result.
 2. Note the slope of OD(433nm)/sec.
 
 ### Adaptation for 96-Well Plate
-*First you need to determine the K Factor for the assay solution.*
+*For quantification you need to determine the K Factor for the assay solution.*
 1. Prepare MV, NaDT, Hb and NaHCO3 as above.
 2. Mix in a falcon tube the following:  15 mL Buffer, 223 µL MV, 445 µL NaDT, 2.23 mL Hb and 2.23 mL NaHCO3. Keep flacon tube closed, until shortly before measurement. Yields Volume for 1 Plate (á 200 µL) so 20 mL (with extra)
 	- Concentrations are adapted to yield the following concentrations in a well, **after** the 20 µL Enzyme was added. 250 µM MV, 2 mM NaDT, 0.2mg/mL Hb and 10 mM NaHCO3

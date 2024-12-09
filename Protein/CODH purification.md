@@ -60,7 +60,7 @@ Bring all plasticware that will contact protein or cell pellets into the glovebo
     - 2 mg DNAse
     - 2 mg RNAse
     - Protease Inhibitor
-    - 12 mg DTT (~2 mM)
+    - 6 mg DTT (~2 mM)
 2. Incubate for 30 min to 1 h at room temperature. The longer, the better. [**Good Break Time!**]
 3. Sonicate (not optimized): 3*(5*(5 sec pulses, 10 sec break), 2 min break)
 4. Take a sample for SDS PAGE.

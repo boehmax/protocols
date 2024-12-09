@@ -137,11 +137,11 @@ When possible, put all references at the end of the sentence. It makes it easier
 
 In the bibliography list, pay attention to formatting. Italicize genus/species/gene names if they are italicized in the original manuscript title. Use superscript/subscript as appropriate. Here is code you can add to your titles in Paperpile so that it fills correctly:
 
-```
+
 <i>Vibrio fischeri</i> colonizes the Hawaiian bobtail squid, <i>Euprymna scolopes</i>
 Transcription is controlled by σ<sup>54</sup>
 Subscripts are less common in paper titles<sub>Am I right?</sub>
-```
+
 
 ### This
 
@@ -165,9 +165,3 @@ This issue occurs rarely in Word, though you can disable hyphenation in `Paragra
 
 After accepting/rejecting comments, be sure to review for issues of 2 spaces or 2 periods in a row. Do a search in the whole document for these issues, and review each manually.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lMmLHchT4Ho/0.jpg)](http://www.youtube.com/watch?v=lMmLHchT4Ho)
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lMmLHchT4Ho
-" target="_blank"><img src="http://img.youtube.com/vi/lMmLHchT4Ho/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
