@@ -4,7 +4,7 @@ category: protein
 ---
 # CODH Expression
 
-**Last Updated**: 2023-09-06
+**Last Updated**: 2025-01-21
 **Authors**: Max, but inspiration taken from [here](https://pubs.acs.org/doi/full/10.1021/acsami.2c09547) and other sources
 
 ## Introduction
@@ -45,17 +45,18 @@ Here I summarised the general protocol for the expression of CODH in *E. coli*. 
 4. Add 50 µL of a 1/10 dilution of AntiFoam C. 
 5. Seal with septum and bubbel for 30 min with N2. 
 	*From now on the cells should not see any more oxygen!*
-7. Then add IPTG to gain a fincal concentration of 200µM under bubbling.
-8. Addition of 10 ml 0.5 M fumarate stock.
+7. Then add IPTG to gain a final concentration of 200µM under bubbling.
+8. Addition of 10 ml 0.5 M fumarate stock under bubbling.
 9. Let them grow for 20 h at 30 C/ 20 C while shaking (160 rpm).
 ### Day 2
-1. If anaerobic harvest is needed, bring flaks inside glovebox. Take OD and collect sample for later SDS page analysis (after induction)
-3. Harvest cells and determine biomass.
-4. Either store cell pellet at -20 C (up to one week) or -80 C (up to several months) or start with protein purification. --> [[CODH purification]]
+1. Ideally harvest is done anaerobically. For this poke a needle in the septum and transfer it to the glovebox.
+3. Harvest cells by transfering them to centrifugation bottles and spin them down.
+	*General 5000g for 5 min is plenty for pelleting E. coli, however, our centrifuge in the glovebox does not go so high. So put maximal speed for 20 min.*
+4. Since storage of an anaerobe cell pellet is not trivial it is recommended to continue directly with the purification.  --> [[CODH purification]]
 
 ## Notes
 - 10x TB Salts: 23.135 g of KH2PO4 (Molecular Weight: 136.09) and 125.41 g of K2HPO4 (Molecular Weight: 174.18) in water to a final volume of 1L, sterilely filtered.
 - Alternateively the harvest can be done aerobically. We can assume that the oxygen concentration says low in the cells, if handled quickly.
 - CbCODH likes TB medium, and glycerol instead of glucose.
-- ChCODH-I, ChCODH-II and RfCODH like LB more, as written above.
+- ChCODH-I, ChCODH-II, RfCODH, CBC1CODH like LB more, as written above.
 - LB-phosphate = 20 g LB mix in 900 mL water --> autoclave, then add 100 mL 10x TB salts.
