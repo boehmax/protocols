@@ -22,4 +22,4 @@
 5. Adjust to 1000 mL
 
 ## Notes
-- MgSO4 and CaCl2 should only be added to a cold 1X salt. Otherwise percipitation will form.
+- MgSO4 and CaCl2 should only be added to a cold 1X salt. Otherwise precipitationcd will form.
