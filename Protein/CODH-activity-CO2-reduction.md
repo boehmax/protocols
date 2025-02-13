@@ -4,7 +4,7 @@ category: protein
 ---
 # CODH activity - CO2 Reduction Assay
 
-**Last Updated**: 2023-09-08
+**Last Updated**: 2025-03-13
 **Authors**: Max
 
 ## Introduction
@@ -15,7 +15,8 @@ The reduction of CO2 is a characteristic properties of CODHs. Here you find the 
 - Buffer (0.1 M Tris-HCl, pH 8, 150 mM NaCl)
 - Methyl Viologen (MV) (25 mM, 6.43 mg/mL in Buffer) 🥼🥽🧤❗
 - Sodium dithionite (NaDT) (100 mM, 17.4 mg/mL in Buffer) 🥽
-- Sodiumbicarbonate (NaHCO3) (100 mM, 8.40 mg/mL in Buffer)
+- Sodiumbicarbonate (NaHCO3) (100 mM, 8.40 mg/mL in Buffer, pKa 6.34)
+	- alternatively: Na2CO3 (100 mM, 10.6 mg/mL in Buffer, pKa 10.33) will have bigger impact on pH of solution, only use if no NaHCO3 available
 - [[Hemoglobin]] (Hb) (31.25 µM, 2.0 mg/mL in Buffer) 🧤
 - Enzyme (0.25 mg/ml, for a "normal" CODH of ~68kDa, that is 3.68 µM)
 - Kuvetts/Plates
@@ -37,23 +38,23 @@ Work in triplicates. One result is no result.
 4. If solution stable, add 10 µL of Enzyme (2.5 µg). Mix with pipetting with 1000p up and down. (Two pipettes in your hands. Takes some practice.)
 		- To check if the solution is 'stable', do a blank measurement without adding enzyme. A slope below 10^{-5} to 10^{-6} OD/sec can be considered background.
 1. Press okay, and let instrument measure. After the measurement it will aske you to insert the next cuvette. Do so if you want to continue with another measurement and press ok. If not press cancel. (Your progress will be saved.)
-2. Note the slope of OD(433nm)/sec.
+2. Note the slope of OD(429nm)/sec.
 
 ### Adaptation for 96-Well Plate
 *For quantification you need to determine the K Factor for the assay solution.*
-1. Prepare MV, NaDT, Hb and NaHCO3 as above.
-2. Mix in a falcon tube the following:  15 mL Buffer, 223 µL MV, 445 µL NaDT, 2.23 mL Hb and 2.23 mL NaHCO3. Keep flacon tube closed, until shortly before measurement. Yields Volume for 1 Plate (á 200 µL) so 20 mL (with extra)
+3. Prepare MV, NaDT, Hb and NaHCO3 as above.
+4. Mix in a falcon tube the following:  15 mL Buffer, 223 µL MV, 445 µL NaDT, 2.23 mL Hb and 2.23 mL NaHCO3. Keep flacon tube closed, until shortly before measurement. Yields Volume for 1 Plate (á 200 µL) so 20 mL (with extra)
 	- Concentrations are adapted to yield the following concentrations in a well, **after** the 20 µL Enzyme was added. 250 µM MV, 2 mM NaDT, 0.2mg/mL Hb and 10 mM NaHCO3
 	- The Hb concentration was doubled! Since the pathlength is much shorter in the 96 Well plate.
-3. Add 20 µL of appropriate diluted Enzyme to well plate. (around 0.5 µg (20 µL of 0.36 µM))
-4. Start Method XXX: *180 µL = 2x 90µL*
+5. Add 20 µL of appropriate diluted Enzyme to well plate. (around 0.5 µg (20 µL of 0.36 µM))
+6. Start Method XXX: *180 µL = 2x 90µL*
 	1. Add 180 µL assay solution to rows 1 to 3 
 	2. give prompt, 
 	3. then add 180 µL assay solution to rows 4 to 6, 
 	4. give prompt
 	6. Done!
-5. Remove plate and continue next plate if necessary.
-6. Collect Plates with MV outside of glovebox and label accordingly, wait untli dried out, then discard in toxic waste.
+7. Remove plate and continue next plate if necessary.
+8. Collect Plates with MV outside of glovebox and label accordingly, wait untli dried out, then discard in toxic waste.
 
 ### Calculate activity
 One unit of activity in CODH community is defined as: 1 mmol CO production per min. Extinction coefficients for Hb at 433nm was determined by us as: 350.1031 1/cm/mM in Buffer listed above. (corrected)
@@ -75,3 +76,7 @@ Refer to the supplemenatry infromation of https://doi.org/10.1021/acscatal.2c022
 - ![[Pasted image 20230908134047.png]]
 - taken from: Microplate Based Pathlength Correction Method for Photometric DNA Quantiﬁcation Assay - Thermo Scientific
 - MV waste needs to be collected and thrown away in special containers
+- Mixing Buffer with Carbonates will influence their pH
+	- Example for 50 mM Tris Buffer pH8
+		- NaHCO3, 10 mM will yield approx pH 7.85
+		- Na2CO3, 10 mM will yield approx pH 8.2
