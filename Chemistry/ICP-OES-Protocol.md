@@ -1,6 +1,6 @@
 # ICP-OES Protocol
 
-**Last Updated**: 2023-03-13
+**Last Updated**: 2025-03-24
 **Author**: Max
 **Instrument Responsible**: [Vitalli Shtender](https://www.katalog.uu.se/profile/?id=N18-2154)
 
@@ -90,3 +90,5 @@ Here I am also foggy, it was so fast!
 - Standards you take from the fridge in the lab of the ICP. After taking them out you can use them up to 2 weeks. If stored in the fridge, but after that they are not good enough anymore, because of *Evaporation*.
 - When referring to a 2% HNO3, they mean 2 to 100 dilution of the 69% ICP grade HNO3 in MilliQ water.
 - Initialisation is done (dafoq did I mean by that?? 🤨)
+
+![[1-1.png]]taken from [here](https://cais.uga.edu/facilities/plasma-chemistry-laboratory/guide-selecting-the-most-suitable-technique/) 
