@@ -4,7 +4,7 @@ category: protein
 ---
 # CODH Expression
 
-**Last Updated**: 2025-01-21
+**Last Updated**: 2025-08-12
 **Authors**: Max, but inspiration taken from [here](https://pubs.acs.org/doi/full/10.1021/acsami.2c09547) and other sources
 
 ## Introduction
@@ -40,7 +40,7 @@ Here I summarised the general protocol for the expression of CODH in *E. coli*. 
 	*I make the "Salt Mix" seprate from the rest of the medium, and dissolve it and then add it (i.e. for 2 L I weigh in 1 g Iron citrate, 1.2 g L-cys, 4 mL of 0.5 M NiCl2, and sometime sugger, if i dont have 40% solution at hand. Then I dissolve it in 40 mL dH2O and add 20 mL to 1 L of medium*
 1. Take blank sample for OD measurement!  
 1. Inoculate with 10 mL of overnight culture.
-2. Grow to an OD(600nm) of 0.3 to 0.6 at 37 C while shaking (150 rpm).
+2. Grow to an OD(600nm) of 0.3 to 0.6 at 37 C while shaking (150 rpm). *This usually takes 2.5 h but will vary if you use different antibiotic or nickel concentration*
 3. Transfer to 1 L Erlenmeyer flask. Add a stirring bar. Take OD and collect a sample for later SDS page analysis (before induction).
 4. Add 50 µL of a 1/10 dilution of AntiFoam C. 
 5. Seal with septum and bubbel for 30 min with N2. 
