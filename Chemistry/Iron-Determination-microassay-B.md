@@ -1,6 +1,10 @@
 ---
-tag: protocol, dna
-category: dna
+tags:
+  - protocol
+  - chemistry
+  - analysis
+  - iron
+category: chemistry
 ---
 # Iron Determination micro assay
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - protocol
+  - chemistry
+  - analysis
+  - metals
+category: chemistry
+---
 # ICP-OES Protocol
 
 **Last Updated**: 2025-03-24

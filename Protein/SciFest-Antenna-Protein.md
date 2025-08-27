@@ -1,6 +1,10 @@
 ---
-tag: protocol
-category: 
+tags:
+  - protocol
+  - protein
+  - education
+  - outreach
+category: protein
 ---
 # SciFest - Antenna Protein Extraction
 
