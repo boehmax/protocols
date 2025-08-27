@@ -1,7 +1,7 @@
 # Protocols
 
-Welcome to my protocols page! These are the protocols I use in my daily basis.
+Welcome to my protocols page. Here, I have outlined the procedures I follow on a regular basis.
 
-Feel free to use them and inform me if you find a mistake. :)
+You are welcome to reference or adapt these protocols. If you notice any errors or areas for improvement, I would greatly appreciate it if you informed me.
 
-Before publishing using these protocols please consulti with me. Thank you!
+Before publishing any work based on these protocols, please consult with me in advance. Thank you.
