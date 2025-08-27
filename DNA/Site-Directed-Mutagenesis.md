@@ -2,7 +2,13 @@
 tags:
   - protocol
   - dna
+  - mutagenesis
+  - PCR
+  - primer-design
 category: dna
+duration: "3-4 days"
+difficulty: "Intermediate"
+prerequisite: "Basic PCR and cloning experience"
 ---
 # Site Directed Mutagenesis
 

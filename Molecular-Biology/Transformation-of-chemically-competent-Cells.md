@@ -2,7 +2,13 @@
 tags:
   - protocol
   - molbio
+  - transformation
+  - E-coli
+  - basic
 category: molbio
+duration: "2-3 hours"
+difficulty: "Beginner"
+prerequisite: "Basic lab techniques"
 ---
 
 # Transformation of chemically competent Cells
@@ -37,3 +43,16 @@ category: molbio
 
 ## Notes
 - 1 L of LB plates would be 15g Aga and 20 g LB powder. --> 4g Aga and 200 mL LB. After autoclaving microwave until melted. Add antibioics when handwarm.
+
+## Related Protocols
+
+**Prerequisites:**
+- [Chemical Competent E. Coli](Chemical-Competent-E-Coli.md) - How to prepare competent cells
+- [Chemically competent cell preparation (Briggi)](Chemically-competent-cell-preparation-B.md) - Alternative competent cell method
+
+**Follow-up Protocols:**
+- [Glycerol Stock](Glycerol-Stock.md) - How to store transformed bacteria
+- [Transformation of multiple Plasmids](Transformation-of-multiple-Plasmids.md) - Multi-plasmid transformations
+
+**Protein Work:**
+- [CODH Expression](../Protein/CODH-Expression.md) - Expressing proteins from transformed cells
