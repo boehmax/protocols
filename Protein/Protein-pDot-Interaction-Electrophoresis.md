@@ -1,5 +1,6 @@
 ---
-tag: protocol
+tags:
+  - protocol
 category: protein
 ---
 # Protein pDot Interaction Electrophoresis

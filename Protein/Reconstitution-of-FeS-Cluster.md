@@ -1,5 +1,7 @@
 ---
-tag: protocol, protein
+tags:
+  - protocol
+  - protein
 category: protein
 ---
 # Reconstitution of FeS Cluster

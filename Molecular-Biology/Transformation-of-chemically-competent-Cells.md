@@ -1,5 +1,7 @@
 ---
-tag: protocol, molbio
+tags:
+  - protocol
+  - molbio
 category: molbio
 ---
 

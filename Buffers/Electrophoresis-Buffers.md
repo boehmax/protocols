@@ -1,6 +1,8 @@
 ---
-tag: protocol
-category: 
+tags:
+  - protocol
+  - buffers
+category: buffers
 ---
 # Electrophoresis-Buffers
 
