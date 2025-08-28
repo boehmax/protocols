@@ -4,7 +4,7 @@ Welcome to our comprehensive laboratory protocols repository. This collection co
 
 ## 📖 About This Repository
 
-This repository contains detailed protocols that have been developed, tested, and optimized in our laboratory. Each protocol includes:
+This repository contains detailed protocols that have been developed, tested, and optimized in our laboratory. However, some protocols have not been updated or been finished, yet! Those are marked in the README.md files in every subsejction as *under construction*. Each protocol includes:
 
 - **Standardized metadata** with tags, categories, and update history
 - **Clear step-by-step procedures** with timing estimates
@@ -14,7 +14,7 @@ This repository contains detailed protocols that have been developed, tested, an
 
 **Usage Guidelines:**
 - You are welcome to reference or adapt these protocols for your research
-- Please consult with the authors before publishing work based on these protocols
+- Please consult with the authors and me before publishing work based on these protocols
 - If you notice errors or have improvements, please let us know
 
 ## 🔍 Quick Navigation
@@ -34,7 +34,7 @@ This repository contains detailed protocols that have been developed, tested, an
 
 *Biophysical characterization techniques*
 
-#### [Cyanide FTIR Probing](Biophysics/Cyanide-FTIR-Probing.md)
+#### [Cyanide FTIR Probing](Biophysics/Cyanide-FTIR-Probing.md) (*under construction*)
 **Authors:** Max | **Updated:** 2023-08-31
 
 The idea is to probe the assembly of the active site of NiCODH by incubating the protein with CN and then trying to see ...
@@ -43,12 +43,12 @@ The idea is to probe the assembly of the active site of NiCODH by incubating the
 
 ---
 
-#### [EPR](Biophysics/EPR_cryo_setUP.md)
+#### [EPR](Biophysics/EPR_cryo_setUP.md) (*under construction*)
 **Authors:** Max | **Updated:** 2024-10-11
 
 ---
 
-#### [How To FTIR](Biophysics/How-To-FTIR.md)
+#### [How To FTIR](Biophysics/How-To-FTIR.md) (*under construction*)
 **Authors:** Max | **Updated:** 2023-10-12
 
 A general protocol on how to operate the FTIR.
@@ -160,7 +160,7 @@ How to make chemical competent E. coli, with CaCl2. This was taken from "Current
 #### [Glycerol Stock](Molecular-Biology/Glycerol-Stock.md)
 **Authors:** Maximilian Böhm | **Updated:** 2022-08-29
 
-Tiny Protocol for making a glycerol stock of bacteria.
+Tiny Protocol for making a glycerol stock of *E. coli*.
 
 **Tags:** `molbio`
 
@@ -202,7 +202,7 @@ FeFe Hydrogenases, when expressed heterologously in E. Coli without maturation e
 
 ---
 
-#### [Are BL21 deltaISCR or BL21 with pISC plasmid better for my protein?](Protein/deltaISCR-or-pISC.md)
+#### [Are BL21 deltaISCR or BL21 with pISC plasmid better for my protein?](Protein/deltaISCR-or-pISC.md) (*under construction*)
 **Authors:** Maximilian Böhm | **Updated:** 2023-10-30
 
 This is an experimental design (probably nested), to check the effect of IPTG, Iron source and strain on the effect of t...
@@ -279,7 +279,7 @@ We are unsure, if tested CODH are unactive towards CO2 reduction beacause of the
 
 ---
 
-#### [Lysis Buffer Screening](Protein/Lysis-Buffer-Screening.md)
+#### [Lysis Buffer Screening](Protein/Lysis-Buffer-Screening.md) (*under construction*)
 **Authors:** Max | **Updated:** 2022-12-12
 
 This is a short Method on how to screen quickly for the optimal lysis buffer.
@@ -297,14 +297,14 @@ The ability of Hybrid Cluster Protein and Carbon Monoxide Dehydrogenases to redu
 
 ---
 
-#### [NO Reduction Assay](Protein/NO-Reduction-Assay.md)
+#### [NO Reduction Assay](Protein/NO-Reduction-Assay.md) (*under construction*)
 **Authors:** ## Introduction | **Updated:** 2023-08-30
 
 Its a mess... not an easy assay...
 
 ---
 
-#### [Nickel Insertion Protocol](Protein/Nicke-Insertion-Protocol.md)
+#### [Nickel Insertion Protocol](Protein/Nicke-Insertion-Protocol.md) (*under construction*)
 **Authors:** ## Introduction | **Updated:** 2023-11-17
 
 It has been shown that Nickel can be inserted into CODHs in vitro by incubating with Nickel and reductant for some time....
@@ -313,14 +313,14 @@ It has been shown that Nickel can be inserted into CODHs in vitro by incubating 
 
 ---
 
-#### [PFE - CODH](Protein/PFE-CODH.md)
+#### [PFE - CODH](Protein/PFE-CODH.md) (*under construction*)
 **Authors:** Max, Tipps from Patricia | **Updated:** 2023-07-11
 
 [[Protein Film Electrochemistry]] PFE is a very powerfull tool.
 
 ---
 
-#### [Protein pDot Interaction Electrophoresis](Protein/Protein-pDot-Interaction-Electrophoresis.md)
+#### [Protein pDot Interaction Electrophoresis](Protein/Protein-pDot-Interaction-Electrophoresis.md) 
 **Authors:** Mariia, Max | **Updated:** 2023-04-26
 
 To determine the interaction between proteins and pdots a simple electrophoresis experiment can be conducted. It has bee...
@@ -352,7 +352,7 @@ During the expression of Iron Sulfer (FeS) Cluster containing proteins, the insu
 
 ---
 
-#### [Size Exclusion Chromatography](Protein/SEC.md)
+#### [Size Exclusion Chromatography](Protein/SEC.md) (*under construction*)
 **Authors:** Max | **Updated:** 2023-06-14
 
 Under CONSTURCTION
@@ -413,8 +413,8 @@ We follow specific writing guidelines to ensure clarity and consistency. See our
 ## 🔗 Related Resources
 
 - [Writing Guide](Writing-Guide.md) - Style and formatting guidelines
-- Protocol optimization tips and best practices
-- Equipment booking and lab safety information
+- Protocol optimization tips and best practices (*under construction*)
+- Equipment booking and lab safety information (*under construction*)
 
 ## 📞 Contact
 
