@@ -30,7 +30,6 @@ Iron determination assay for very small amounts of iron in a sample, eg protein.
 ## Navigation
 
 - [← Back to Main Index](../README.md)
-- [Writing Guidelines](../Writing-Guide.md)
 
 ## Quick Links
 
