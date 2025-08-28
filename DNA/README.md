@@ -42,7 +42,6 @@ How to design a primer for introducing a mutation in a gene via PCR. Followed by
 ## Navigation
 
 - [← Back to Main Index](../README.md)
-- [Writing Guidelines](../Writing-Guide.md)
 
 ## Quick Links
 
