@@ -6,7 +6,7 @@ This section contains protocols for protein expression, purification, characteri
 
 ### Expression & Purification
 
-#### [Are BL21 deltaISCR or BL21 with pISC plasmid better for my protein?](deltaISCR-or-pISC.md)
+#### [Are BL21 deltaISCR or BL21 with pISC plasmid better for my protein?](deltaISCR-or-pISC.md) (*under construction*)
 **Authors:** Maximilian Böhm | **Updated:** 2023-10-30
 
 This is an experimental design (probably nested), to check the effect of IPTG, Iron source and strain on the effect of t...
@@ -85,7 +85,7 @@ We are unsure, if tested CODH are unactive towards CO2 reduction beacause of the
 
 ---
 
-#### [Lysis Buffer Screening](Lysis-Buffer-Screening.md)
+#### [Lysis Buffer Screening](Lysis-Buffer-Screening.md) (*under construction*)
 **Authors:** Max | **Updated:** 2022-12-12
 
 This is a short Method on how to screen quickly for the optimal lysis buffer.
@@ -95,27 +95,27 @@ This is a short Method on how to screen quickly for the optimal lysis buffer.
 ---
 
 #### [NH2OH Reduction Assay](NH2OH-Reduction-Assay.md)
-**Authors:** Max, and from here https://journals.asm.org/doi/10.1128/JB.184.21.5898-5902.2002 and https://www.ncbi.nlm.nih.gov/pubmed/35133707 | **Updated:** 2022-03-02
+**Authors:** Max, and from [here](https://journals.asm.org/doi/10.1128/JB.184.21.5898-5902.2002) and [here](https://www.ncbi.nlm.nih.gov/pubmed/35133707) | **Updated:** 2022-03-02
 
 The ability of Hybrid Cluster Protein and Carbon Monoxide Dehydrogenases to reduce Hydroxylamine to Ammonia and Water ha...
 
 ---
 
-#### [NO Reduction Assay](NO-Reduction-Assay.md)
+#### [NO Reduction Assay](NO-Reduction-Assay.md) (*under construction*)
 **Authors:** ## Introduction | **Updated:** 2023-08-30
 
 Its a mess... not an easy assay...
 
 ---
 
-#### [Nickel Insertion Protocol](Nicke-Insertion-Protocol.md)
+#### [Nickel Insertion Protocol](Nicke-Insertion-Protocol.md) (*under construction*)
 **Authors:** ## Introduction | **Updated:** 2023-11-17
 
 It has been shown that Nickel can be inserted into CODHs in vitro by incubating with Nickel and reductant for some time....
 
 ---
 
-#### [PFE - CODH](PFE-CODH.md)
+#### [PFE - CODH](PFE-CODH.md) (*under construction*)
 **Authors:** Max, Tipps from Patricia | **Updated:** 2023-07-11
 
 [[Protein Film Electrochemistry]] PFE is a very powerfull tool.
@@ -144,13 +144,13 @@ During the expression of Iron Sulfer (FeS) Cluster containing proteins, the insu
 #### [SciFest - Antenna Protein Extraction](SciFest-Antenna-Protein.md)
 **Authors:** Max | **Updated:** 2023-09-06
 
-*Taken from a protocol written in a undergrad lab by me.* Phycobiliproteins or chromoproteins are the main part of the l...
+*Taken from a protocol written in a undergrad lab at FAU, based on a ACS Edcuation article.* Phycobiliproteins or chromoproteins are the main part of the l...
 
 **Tags:** `education`
 
 ---
 
-#### [Size Exclusion Chromatography](SEC.md)
+#### [Size Exclusion Chromatography](SEC.md) (*under construction*)
 **Authors:** Max | **Updated:** 2023-06-14
 
 Under CONSTURCTION
@@ -161,7 +161,6 @@ Under CONSTURCTION
 ## Navigation
 
 - [← Back to Main Index](../README.md)
-- [Writing Guidelines](../Writing-Guide.md)
 
 ## Quick Links
 
