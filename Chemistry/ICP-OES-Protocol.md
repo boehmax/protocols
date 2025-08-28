@@ -1,3 +1,15 @@
+---
+tags:
+  - protocol
+  - chemistry
+  - analytical
+  - ICP-OES
+  - metal-analysis
+category: chemistry
+duration: "1-2 hours setup + 5 min per sample"
+difficulty: "Intermediate"
+prerequisite: "Instrument training required"
+---
 # ICP-OES Protocol
 
 **Last Updated**: 2025-03-24

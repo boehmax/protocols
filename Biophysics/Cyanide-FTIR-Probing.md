@@ -1,5 +1,7 @@
 ---
-tag: protocol
+tags:
+  - protocol
+  - biophysics
 category: biophysics
 ---
 # Cyanide FTIR Probing

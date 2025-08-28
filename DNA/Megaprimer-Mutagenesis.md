@@ -1,5 +1,6 @@
 ---
-tag: protocol
+tags:
+  - protocol
 category: dna
 ---
 # Megaprimer Mutagenesis

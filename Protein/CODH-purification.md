@@ -1,6 +1,14 @@
 ---
-tag: protocol, protein
+tags:
+  - protocol
+  - protein
+  - purification
+  - CODH
+  - advanced
 category: protein
+duration: "8-10 hours"
+difficulty: "Advanced"
+prerequisite: "Protein expression experience"
 ---
 # CODH Purification Protocol
 
@@ -109,3 +117,20 @@ Bring all plasticware that will contact protein or cell pellets into the glovebo
 - Lysis Buffer: 
 - **DCA**: Protect from long exposure to light after dissolving. Dissolves poorly; shaking for 30 min to 1 h at 37°C helps. Cool before adding to cell paste.
 - **DTT**: An oxygen scavenger. Reacts with oxygen and other oxidizing substances. Add freshly to the buffer. Buffers with DTT should not stand around for too long. Use your judgment to decide if a buffer is "too old." Consider adding Resazurin for certainty.
+
+## Related Protocols
+
+**Upstream Protocols:**
+- [CODH Expression](CODH-Expression.md) - Standard expression protocol for CODHs
+- [CODH Expression (Inoue)](CODH-Expression-Inoue.md) - Alternative expression method
+
+**Downstream Analysis:**
+- [Bradford Microtube Assay](Bradford-Microtube-Assay.md) - Protein concentration measurement
+- [SDS-PAGE](SDS-PAGE.md) - Protein purity analysis
+- [ICP-OES Protocol](../Chemistry/ICP-OES-Protocol.md) - Metal content analysis
+- [CODH Activity CO Oxidation](CODH-activity-CO-oxidation.md) - Activity measurement
+- [CODH Activity CO2 Reduction](CODH-activity-CO2-reduction.md) - Activity measurement
+
+**Supporting Protocols:**
+- [Nickel Insertion Protocol](Nicke-Insertion-Protocol.md) - Post-purification metal insertion
+- [SEC](SEC.md) - Size exclusion chromatography for further purification

@@ -1,5 +1,6 @@
 ---
-tag: protocol
+tags:
+  - protocol
 category: protein
 ---
 # NO Reduction Assay

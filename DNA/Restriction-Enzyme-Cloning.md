@@ -1,5 +1,7 @@
 ---
-tag: protocol, dna
+tags:
+  - protocol
+  - dna
 category: dna
 ---
 # Restriction Enzyme Cloning

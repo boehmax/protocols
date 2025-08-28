@@ -1,5 +1,8 @@
 ---
-tag: protocol, buffer, protein
+tags:
+  - protocol
+  - buffer
+  - protein
 category: protein
 ---
 # Lysis Buffer Screening

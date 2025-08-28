@@ -1,10 +1,12 @@
 ---
-tag: protocol, dna
+tags:
+  - protocol
+  - dna
 category: dna
 ---
 # DNA Fragment Isolation from Gel
 
-**Last Updated**: unknwon
+**Last Updated**: unknown
 **Authors**: Briggi
 
 ## Introduction
