@@ -12,7 +12,6 @@ Recipes and protocols for preparing buffers, media, and solutions commonly used 
 #### [M9 media ](M9-media-B.md)
 **Authors:** Briggi | **Updated:** unknown
 
-**Tags:** `media`
 
 ---
 
@@ -20,7 +19,6 @@ Recipes and protocols for preparing buffers, media, and solutions commonly used 
 ## Navigation
 
 - [← Back to Main Index](../README.md)
-- [Writing Guidelines](../Writing-Guide.md)
 
 ## Quick Links
 
