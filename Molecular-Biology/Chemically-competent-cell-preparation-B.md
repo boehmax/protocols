@@ -1,10 +1,12 @@
 ---
-tag: protocol, molbio
+tags:
+  - protocol
+  - molbio
 category: molbio
 ---
 # Chemically competent cell preperation
 
-**Last Updated**: unkown
+**Last Updated**: unknown
 **Authors**: Briggi, Max
 
 ## Introduction

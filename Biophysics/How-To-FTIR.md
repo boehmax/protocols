@@ -1,6 +1,8 @@
 ---
-tag: protocol
-category: 
+tags:
+  - protocol
+  - biophysics
+category: biophysics
 ---
 # How To FTIR
 
