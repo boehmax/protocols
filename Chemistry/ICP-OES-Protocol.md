@@ -91,4 +91,4 @@ Here I am also foggy, it was so fast!
 - When referring to a 2% HNO3, they mean 2 to 100 dilution of the 69% ICP grade HNO3 in MilliQ water.
 - Initialisation is done (dafoq did I mean by that?? 🤨)
 
-![[1-1.png]]taken from [here](https://cais.uga.edu/facilities/plasma-chemistry-laboratory/guide-selecting-the-most-suitable-technique/) 
+![[ICP-OES_PSE.png]]taken from [here](https://cais.uga.edu/facilities/plasma-chemistry-laboratory/guide-selecting-the-most-suitable-technique/) 
