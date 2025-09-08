@@ -17,9 +17,9 @@ category: buffers
 	171.8 g Na2HPO4 x 2H20 
 - 30 g KH2PO4
 - 5g NaCl
-- add 800 mL dH2O and stir until dissolved
-- adjust to 1 L 
-- sterilize by autoclaving(?) or filtering
+- Add 800 mL dH2O and stir until dissolved
+- Adjust to 1 L 
+- Sterilize by autoclaving(?) or filtering
 
 ## 1x M9 Medium
 1. Add 100 mL 10x M9 Slat Mix
@@ -29,4 +29,4 @@ category: buffers
 5. Adjust to 1000 mL
 
 ## Notes
-- MgSO4 and CaCl2 should only be added to a cold 1X salt. Otherwise precipitation will form.
+- MgSO_4 and CaCl2 should only be added to a cold 1X salt. Otherwise precipitation will form.
