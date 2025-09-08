@@ -19,9 +19,9 @@ All materials are calculated for 1 plasmid, multiply by the amount of plasmids y
 - CaCl2, glycerol solution (sterile)
 - LB-agar plates with appropriate antibiotics
 - 2 Falcon Tubes
-- Sterile 1.5mL Eppendorf tubes
+- Sterile 1.5 mL Eppendorf tubes
 - Sterile 1 mL Tips
-- Sterile 200µL Tips
+- Sterile 200 µL Tips
 
 ## Procedure
 
