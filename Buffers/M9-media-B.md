@@ -17,7 +17,7 @@ category: buffers
 	171.8 g ${Na_2HPO_4 x 2H_20}$
 - 30 g ${KH_2PO_4}
 - 5g NaCl
-- Add 800 mL dH{_2}O and stir until dissolved
+- Add 800 mL dH2O and stir until dissolved
 - Adjust to 1 L 
 - Sterilize by autoclaving(?) or filtering
 
