@@ -14,10 +14,10 @@ category: buffers
 - 68.13 g ${Na_2HPO_4}$ **or**
 	85 g ${Na_2HPO_4 * 2 H_2O}$ **or**
 	128 g ${Na_2HPO_4 x 7H_20}$ **or**
-	171.8 g Na2HPO4 x 2H20 
-- 30 g KH2PO4
+	171.8 g ${Na_2HPO_4 x 2H_20}$
+- 30 g ${KH_2PO_4}
 - 5g NaCl
-- Add 800 mL dH2O and stir until dissolved
+- Add 800 mL dH{_2}O and stir until dissolved
 - Adjust to 1 L 
 - Sterilize by autoclaving(?) or filtering
 
