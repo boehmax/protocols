@@ -31,7 +31,7 @@ category: dna
 | 10x FD green buffer                      | 2 µL        |
 | dH2O                                     | up to 20 µl |
 
-3. digest 20 to 25 min at 37C
+3. Digest 20 to 25 min at 37C
 4. Load on the gel (7 µL from marker)
 5. 96V 45 min
 6. Cut the bands
