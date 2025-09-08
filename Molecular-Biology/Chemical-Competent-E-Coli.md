@@ -18,8 +18,8 @@ ___
 - Calcium Chloride, 0.1 M with 15 % Glycerol (v/v)
 - LB Medium
 ### Equipment
-- Steriel Erlenmeyer Flask
-- Steriel Tips (1 mL, 5 mL, 200 µL)
+- Sterile Erlenmeyer Flask
+- Sterile Tips (1 mL, 5 mL, 200 µL)
 - Sterile Falcon Tubes
 - Sterile 1.5 mL Tubes (Eppis)
 - Falcon Tube Centrifuge (cooled)

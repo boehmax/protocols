@@ -42,7 +42,7 @@ prerequisite: "Basic lab techniques"
 
 
 ## Notes
-- 1 L of LB plates would be 15g Aga and 20 g LB powder. --> 4g Aga and 200 mL LB. After autoclaving microwave until melted. Add antibioics when handwarm.
+- 1 L of LB plates would be 15g Agar and 20 g LB powder. --> 4g Agar and 200 mL LB. After autoclaving microwave until melted. Add antibioics when handwarm.
 
 ## Related Protocols
 

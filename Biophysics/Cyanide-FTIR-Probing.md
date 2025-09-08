@@ -26,13 +26,13 @@ The idea is to probe the assembly of the active site of NiCODH by incubating the
 2. For this weigh in 3.5 mg NaDT in a 15 mL Falcon Tube, bring inside glovebox and mix with 5 mL Buffer A'.
 3. Then use 6 μL of CODH (400 μM) and add to 500 μL of buffer A (Tris–HCl 50 mM pH 8, NaCl 100 mM, NaDT 4 mM)
 	1. The CN-bound signal is very small, so more is more in regards of enzyme concentration! Especially if you already know your nickel occupancy is low.
-4. incubated for 45 min at RT.
+4. Incubated for 45 min at RT.
 5. Meanwhile weigh in approx 6.5 mg KCN, and bring inside glovebox, and dissolve to 6.5 mg/ml in buffer A.
 6. Then 5 µL of this Potassium cyanide (100 mM (6.5 mg/ml)) is added to the sample (final conc 1 mM)
-7. incubated for 30 min under occasional shaking
-8. reaction mixtures washed several times using Microcon® Centrifugal Filters (cut-off 100 kDa) with buffer A and reductant 
-9. finally concentrated to 10 μL 
-10. injection into the transmission cell. 
+7. Incubated for 30 min under occasional shaking
+8. Reaction mixtures washed several times using Microcon® Centrifugal Filters (cut-off 100 kDa) with buffer A and reductant 
+9. Finally concentrated to 10 μL 
+10. Injection into the transmission cell. 
 
 #### FTIR measurement
 see [[How-To-FTIR]]
@@ -44,10 +44,10 @@ see [[How-To-FTIR]]
 - Dispose waste separately!
 ![[Pasted image 20230830091511.png]]
 https://doi.org/10.1039/C5SC04554A
-- that a single cyanide binds to the Ni ion
-- degradation of the C-cluster occurred in the presence of an excess of cyanide on the long-minute time scale
-- formation of [Fe(CN)6]4− and [Ni(CN)4]2−
-- vibration at 2110 cm-1
+- That a single cyanide binds to the Ni ion
+- Degradation of the C-cluster occurred in the presence of an excess of cyanide on the long-minute time scale
+- Formation of [Fe(CN)6]4− and [Ni(CN)4]2−
+- Vibration at 2110 cm-1
 - pK_a value for HCN is 9.21--> mix of CN- (2080 cm-1) and HCN(aq) (2093 cm-1) if pH lower than 9.21--> concentation of CN- is an estimate
 
 Original protocol:

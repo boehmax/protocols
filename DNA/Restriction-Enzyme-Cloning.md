@@ -98,6 +98,6 @@ This guide will carry you trough the whole journey of cloning via restricion enz
 
 ## Notes
 - The Ligase is expensive, only do 0.5 µL reactions!
-- Try to avoid NdeI, rumor has it that the diguestion with it is not very clean
-- ALWAYS check if you have all the diguestion enzymes you need, also look at the tubes to see if there is enough liquid in them!
+- Try to avoid NdeI, rumor has it that the digestion with it is not very clean
+- ALWAYS check if you have all the digestion enzymes you need, also look at the tubes to see if there is enough liquid in them!
 

@@ -11,15 +11,15 @@ category: buffers
 **Authors**: Briggi
 
 ## 10x M9 Salt Mix (1 L)
-- 68.13 g $\ce{Na2HPO4}$ **or**
-	85 g $\ce{Na2HPO4 * 2 H2O}$ **or**
-	128 g Na2HPO4 x 7H20 **or**
-	171.8 g Na2HPO4 x 2H20 
-- 30 g KH2PO4
+- 68.13 g ${Na_2HPO_4}$ **or**
+	85 g ${Na_2HPO_4 * 2 H_2O}$ **or**
+	128 g ${Na_2HPO_4 x 7H_20}$ **or**
+	171.8 g ${Na_2HPO_4 x 2H_20}$
+- 30 g ${KH_2PO_4}$
 - 5g NaCl
-- add 800 mL dH2O and stir until dissolved
-- adjust to 1 L 
-- sterilize by autoclaving(?) or filtering
+- Add 800 mL dH2O and stir until dissolved
+- Adjust to 1 L 
+- Sterilize by autoclaving(?) or filtering
 
 ## 1x M9 Medium
 1. Add 100 mL 10x M9 Slat Mix
