@@ -23,23 +23,23 @@ How to design a primer for introducing a mutation in a gene via PCR. Followed by
 ## Procedure
 
 #### Primer Design
-1. get gen[[2004Zheng]]
-2. identify aa you want to change and how you want to change it
-3. identify common codons in the gene for the aa you want to introduce! and use this one if possible. (Some codons are more frequent in a gene, and since we usually use codon optimised plasmids, if we take from the plasmid we are sure not to pick a rare one by accident.)
+1. Get gen[[2004Zheng]]
+2. Identify aa you want to change and how you want to change it
+3. Identify common codons in the gene for the aa you want to introduce! and use this one if possible. (Some codons are more frequent in a gene, and since we usually use codon optimised plasmids, if we take from the plasmid we are sure not to pick a rare one by accident.)
 **FORWARD**:
-4. start from mutation and elongate for10 to 15 bases to the 3'end and ca. 6 bases in 5'end
+4. Start from mutation and elongate for10 to 15 bases to the 3'end and ca. 6 bases in 5'end
 5. Check Tm, chew away both ends until Tm around 68 to 72. Keep at least 8 to 7 at the 3' and at least 4 to 5 at the 5'
-6. try to end sequence on C or G
+6. Try to end sequence on C or G
 
 **BACKWARD**:
 (keep in mind that you need to use now corresponding bases and revers direction (always write sequences from 5' to 3'))
-6. start from mutation and elongate for 6 bases to the 3'end (5' end in original sequence) and ca. 15 bases in 5'end (3' end in original sequence)
+6. Start from mutation and elongate for 6 bases to the 3'end (5' end in original sequence) and ca. 15 bases in 5'end (3' end in original sequence)
 
-7. [check annealing temperatures](https://tmcalculator.neb.com/#!/main) (best in a range from 68 to 72 °C) (if to high try to shorten sequence, if to low, try to elongate sequence, we usually use Phusion Polymerase)
-8. check for hairpin and other problems, [here](https://en.vectorbuilder.com/tool/dna-secondary-structure.html)
+7. [Check annealing temperatures](https://tmcalculator.neb.com/#!/main) (best in a range from 68 to 72 °C) (if to high try to shorten sequence, if to low, try to elongate sequence, we usually use Phusion Polymerase)
+8. Check for hairpin and other problems, [here](https://en.vectorbuilder.com/tool/dna-secondary-structure.html)
 9. Order primers!
 
-ideal GC content 40 to 60 %
+Ideal GC content 40 to 60 %
 $\Delta G$ for hairpin okay if absolute value smaller -5 kcal/mol
 (dimerization can be ignored for this technique)
 
