@@ -11,7 +11,7 @@ category: buffers
 **Authors**: Briggi
 
 ## 10x M9 Salt Mix (1 L)
-- 68.13 g $\ce{Na2HPO4}$ **or**
+- 68.13 g ${Na_2HPO_4}$ **or**
 	85 g $\ce{Na2HPO4 * 2 H2O}$ **or**
 	128 g Na2HPO4 x 7H20 **or**
 	171.8 g Na2HPO4 x 2H20 
@@ -29,4 +29,4 @@ category: buffers
 5. Adjust to 1000 mL
 
 ## Notes
-- MgSO_4 and CaCl2 should only be added to a cold 1X salt. Otherwise precipitation will form.
+- MgSO4 and CaCl2 should only be added to a cold 1X salt. Otherwise precipitation will form.
