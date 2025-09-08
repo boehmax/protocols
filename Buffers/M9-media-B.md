@@ -12,8 +12,8 @@ category: buffers
 
 ## 10x M9 Salt Mix (1 L)
 - 68.13 g ${Na_2HPO_4}$ **or**
-	85 g $\ce{Na2HPO4 * 2 H2O}$ **or**
-	128 g Na2HPO4 x 7H20 **or**
+	85 g ${Na_2HPO_4 * 2 H_2O}$ **or**
+	128 g ${Na_2HPO_4 x 7H_20}$ **or**
 	171.8 g Na2HPO4 x 2H20 
 - 30 g KH2PO4
 - 5g NaCl
