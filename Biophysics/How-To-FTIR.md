@@ -25,10 +25,10 @@ UNDER CONSTRUCTION
 8. We have two sorts of detector one XXXX and another one xxx that needs cooling.
 9. To cool the detector, fill in the back left corner of the device with lq N2. Fill. Wait. Repeat until no boiling can be heard.
 10. Check the lower right corner (device/program?) switching from red to green --> ready!
-11. repeated ?
-12. spectral ray collect: ??
-13. beam path
-14. check signal (Max Am 32 000)
+11. R(T)epeated ?
+12. Spectral ray collect: ??
+13. Beam path
+14. Check signal (Max Am 32 000)
 15. OPTIC: Settings
 	1. Detector setting --> LNMCT
 16. Advance, Experiment load --> .xpm load --> change file name
