@@ -17,7 +17,7 @@ All materials are calculated for 1 plasmid, multiply by the amount of plasmids y
 - 100 mL LB medium in autoclaved Erlenmeyer Flask for growth
 - CaCl2 solution (sterile)
 - CaCl2, glycerol solution (sterile)
-- LB-aga plates with appropriate antibiotics
+- LB-agar plates with appropriate antibiotics
 - 2 Falcon Tubes
 - sterile 1.5mL Eppendorf tubes
 - sterile 1 mL Tips
@@ -27,13 +27,10 @@ All materials are calculated for 1 plasmid, multiply by the amount of plasmids y
 
 ### Day 1
 - Transform first Plasmid into competent cells
-
-### Day 2
-- check for colonies
-- pick colonies at the end of the day and make overnight culture.
+- Pick colonies at the end of the day and make overnight culture.
 
 ### Day 3
-- make competent cells form overnight culture
+- Make competent cells form overnight culture
 - Transform next plasmid
 
 
