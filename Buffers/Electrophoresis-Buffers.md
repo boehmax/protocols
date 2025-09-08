@@ -50,9 +50,9 @@ category: buffers
 ### 0.5 M EDTA
 - 93.05 g EDTA disodium salt
 - 400 mL dH2O
-- adjust pH with NaOH to 8.0
-- fill up to 500 mL
-- autoclave
+- Adjust pH with NaOH to 8.0
+- Fill up to 500 mL
+- Autoclave
 
 ### 1x TAE
 20 mL 50x TAE fill up to 1 L
