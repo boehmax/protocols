@@ -43,12 +43,12 @@ Substrate: 0.84 mg/ml NaHCO3 (cell volume is 100 mL, so 80 mg aliquots are conve
 I tried now different adhesion protocols for ChCODH-II
 - Polishing out side, bring inside, add 16mg/ml 2uL enzyme
 - Polish inside, add 16mg/ml 2uL enzyme
-- Polish inside add 3 times more concentrated polymyxin 3uL, with 2uL of 16mg/ml enzyme
-- Polishing out side, with water, bring inside, 5µL Polymyxin (0.2mg/ml) 10 min,  add 5µM 5µL enzyme, 5 min 
+- Polish inside add 3 times more concentrated polymyxin (0.1mg/ml) 3uL, with 2uL of 16mg/ml enzyme (Armstrong's Mix)
+- Polishing out side, with water, bring inside, 5µL Polymyxin (0.2mg/ml) 10 min,  add 5µM 5µL enzyme, 5 min (Alina's Mix)
 - Positively charged electrode no Polymyxin (see charge graph of ChCODH-II, so maybe negatively charged surface would have worked...)
 - Pre reduced Enzyme
 Those all didn't worked.
-From Patricia I got the tip that the buffer makes a huge difference here, before I always used HEPES, but she recommended MES. I know that pH 7 is not in the buffering range any longer, but that is also used by others.[1] 
+From Patricia I got the tip that the buffer makes a huge difference here, before I always used HEPES, but she recommended MES. I know that pH 7 is not in the buffering range any longer, but that is also used by others.[1] I also tried HEPES at pH 7 and I didn't get a current.
 
 The protocol above does not produce a stable film. After 6 cycle current was still decreasing, I hadn't had time to optimise it yet :(
 
