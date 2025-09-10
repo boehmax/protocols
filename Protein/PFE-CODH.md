@@ -27,7 +27,7 @@ category: protein
 - Fill cell with Buffer
 - Remove adsorbed O2 from electrode by reductive cycling (**between +0.2 V and −0.8 V vs Ag/AgCl** at **50–200 mV·s⁻¹** for **10–50 cycles** until no change in CV is seen)
 - Let dry
-- Drop cast 5 µL of Protein (5 µM) on the electrode and let sit for 5 min (see notes)
+- Drop cast 5 µL of Protein (5 µM, in MES Buffer!) on the electrode and let sit for 5 min (see notes)
 - Add back to cell, add substrate, and pray to the Echem gods that the film is stable (see notes)
 
 #### Running CV
