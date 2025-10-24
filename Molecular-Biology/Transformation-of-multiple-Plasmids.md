@@ -35,3 +35,4 @@ All materials are calculated for 1 plasmid, multiply by the amount of plasmids y
 
 
 ## Notes
+- Jorge gave me the tip to use half the antibiotic concentrations when working with multiple resistances.

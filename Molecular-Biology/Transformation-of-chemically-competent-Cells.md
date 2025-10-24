@@ -43,6 +43,7 @@ prerequisite: "Basic lab techniques"
 
 ## Notes
 - 1 L of LB plates would be 15g Agar and 20 g LB powder. --> 4g Agar and 200 mL LB. After autoclaving microwave until melted. Add antibioics when handwarm.
+- Jorge gave me the tip to use half the antibiotic concentrations when working with multiple resistances.
 
 ## Related Protocols
 
